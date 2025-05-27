@@ -3,13 +3,14 @@
 A modern and beautiful web-based application for comparing files and plain texts with side-by-side diff visualization, syntax highlighting, and support for PDF, Word, code files, and Jupyter notebooks.
 
 
+
 ## 🖼️ UI Preview
 
 ### 1. Home Page
 
 > This is the landing page where the user can choose between file comparison or text comparison.
 
-![Home Page]([LINK_TO_HOME_IMAGE](https://github.com/Es-Kiani/Diff-Viewer/blob/main/img/main.png))
+![Home Page](https://github.com/Es-Kiani/Diff-Viewer/blob/main/img/main.png)
 
 ---
 
@@ -17,7 +18,7 @@ A modern and beautiful web-based application for comparing files and plain texts
 
 > In this section, users can upload two files (e.g., code, PDF, Word) and view highlighted differences.
 
-![File Comparison]([LINK_TO_COMPARE_FILES_IMAGE](https://github.com/Es-Kiani/Diff-Viewer/blob/main/img/file.png))
+![File Comparison](https://github.com/Es-Kiani/Diff-Viewer/blob/main/img/file.png)
 
 ---
 
@@ -25,8 +26,7 @@ A modern and beautiful web-based application for comparing files and plain texts
 
 > Here, users can manually input two pieces of text and visually inspect their differences.
 
-![Text Comparison]([LINK_TO_COMPARE_TEXT_IMAGE](https://github.com/Es-Kiani/Diff-Viewer/blob/main/img/text.png))
-
+![Text Comparison](https://github.com/Es-Kiani/Diff-Viewer/blob/main/img/text.png)
 
 
 ---
