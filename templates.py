@@ -57,7 +57,7 @@ h1 {
 <h1>Select Comparison Mode</h1>
 <form action="/upload-mode"><button class="mode-btn">🔍 Compare Files</button></form>
 <form action="/text-mode"><button class="mode-btn">✍️ Compare Text</button></form>
-<div class="footer">Crafted with ❤️ by Innovation</div>
+<div class="footer">Crafted with ❤️ by Stephen</div>
 </div>
 </body></html>'''
 
