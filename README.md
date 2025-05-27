@@ -28,6 +28,11 @@ A modern and beautiful web-based application for comparing files and plain texts
 
 ![Text Comparison](https://github.com/Es-Kiani/Diff-Viewer/blob/main/img/text.png)
 
+---
+
+### 4. Result
+
+![Result](https://github.com/Es-Kiani/Diff-Viewer/blob/main/img/result.png)
 
 ---
 
